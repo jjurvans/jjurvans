@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jjurvans
-- 👀 I’m interested in python, bioinformatics, data science, machine learning, and AI.
+- 👀 I’m interested in bioinformatics, data science, and machine learning.
 - 🌱 I’m learning python, django, R, and SQL.
 - 💞️ I’m looking to collaborate on bioscience projects.
 - 📫 How to reach me: jaana_jurvansuu@yahoo.com
