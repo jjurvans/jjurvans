@@ -3,8 +3,7 @@
 I'm a molecular biologist employing bioinformatics, data science, and machine learning to uncover patterns in genetic sequences, ecological systems, and public health.
 
 ## 🌍 Research Focus
-Wastewater-Based Epidemiology
-Virology
+Virology and Wastewater-Based Epidemiology
 
 ## 🧰 Technical Skills:
 - Bioinformatics Methods: Virome analysis, bacterial 16S analysis, metagenomics, gene expression profiling, and computational pipelines.
