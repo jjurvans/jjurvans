@@ -6,15 +6,15 @@ to uncover patterns in genetic sequences, ecological systems, and public health.
 Wastewater-Based Epidemiology
 Virology
 
-🧰 Technical Skills
-Bioinformatics Methods
-  Virome analysis, bacterial 16S analysis, metagenomics, gene expression profiling, and computational pipelines.
-Machine Learning
-  Predictive modeling, data preprocessing, feature engineering, and analysis for biological and health data.
-Large Language Models (LLMs)
-  Utilizing LLMs for code generation, data frame creation, and automation to streamline data science workflows.
-Programming Languages
-  Python | R | SQL
+🧰 Technical Skills:
+Bioinformatics Methods:
+- Virome analysis, bacterial 16S analysis, metagenomics, gene expression profiling, and computational pipelines.
+Machine Learning:
+- Predictive modeling, data preprocessing, feature engineering, and analysis for biological and health data.
+Large Language Models (LLMs):
+- Utilizing LLMs for code generation, data frame creation, and automation to streamline data science workflows.
+Programming Languages:
+Python | R | SQL
 
 🛠 Toolbox Essentials:
 Pandas | NumPy | SciPy | Matplotlib | Seaborn | Statsmodels | Scikit-Learn | Imbalanced-learn | GeoPandas
